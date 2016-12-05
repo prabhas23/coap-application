@@ -6,7 +6,7 @@ This project utilizes Constrained Application Protocol (CoAP) to demonstrate the
 
 ##Motivation
 
-This project was done to support the small IoT device to interact with the remote server of our [existing project](https://github.com/KaushikNeelichetty/Anti-Theft-Device-For-CCTV-Cameras).
+This project was done to support the small IoT device to interact with the remote server of our existing project on [Anti-Theft Device for CCTV Cameras](https://github.com/KaushikNeelichetty/Anti-Theft-Device-For-CCTV-Cameras).
 
 ##Objective
 
