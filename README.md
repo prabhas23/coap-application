@@ -4,7 +4,7 @@
 <p>This project utilizes Constrained Application Protocol (CoAP) to demonstrate the simple REST API for .</p>
 
 ##Objective
-<p>Localhost CoAP Server and use GET and PUT to access the resource.</p>
+<p>Localhost CoAP Server on the system and use GET and PUT to access the resource.</p>
 
 ##Requirements
 1. NetBeans
