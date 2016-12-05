@@ -26,4 +26,8 @@ Download the zip file and extract it or clone this project by typing below comma
 
 Open the project in NetBeans to edit, build and run it.
 
-##
+##Testing
+
+After running the CoAP Server:
+>1. Open Mozilla Firefox and access the localhost with `coap://localhost:5683/camera`.
+2. Use GET and PUT button to test the output.
