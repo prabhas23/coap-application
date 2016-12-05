@@ -1,20 +1,29 @@
 #CoAP Application
 
 ##Synopsis
-<p>This project utilizes Constrained Application Protocol (CoAP) to demonstrate the simple REST API for .</p>
+
+This project utilizes Constrained Application Protocol (CoAP) to demonstrate the simple REST API for .
+
+##Motivation
+
+This project was done to support the small IoT device to interact with the remote server of our [existing project](https://github.com/KaushikNeelichetty/Anti-Theft-Device-For-CCTV-Cameras).
 
 ##Objective
-<p>Localhost CoAP Server on the system and use GET and PUT to access the resource.</p>
+
+Localhost CoAP Server on the system and use GET and PUT to access the resource.
 
 ##Requirements
-1. NetBeans
-2. Mozilla Firefox
-3. Copper(Cu) CoAP user-agent for Mozilla Firefox
-4. Library (JAR) files of CoAP Framework(Cf)-Californium
+
+1. [NetBeans](https://netbeans.org/)
+2. [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
+3. [Copper(Cu) CoAP user-agent](https://github.com/mkovatsc/Copper) for Mozilla Firefox
+4. Library (JAR) files of [CoAP Framework(Cf)-Californium](https://github.com/eclipse/californium)
 
 ##Installation
-<p>Download the zip file and extract it or clone this project by typing below command on terminal:</p>
+
+Download the zip file and extract it or clone this project by typing below command on terminal:
 >`git clone https://github.com/prabhas23/coap-application.git`
-<p>Open the project in NetBeans to edit, build and run it.</p>
+
+Open the project in NetBeans to edit, build and run it.
 
 ##
